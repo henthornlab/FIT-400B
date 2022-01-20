@@ -25,3 +25,7 @@ Installed on 12/16/21 by:
 * Shane Myszka
  
  For the 2022 *Process Analytics* course. 
+ 
+ ![RHIT Logo]( https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/master/fit-400b_install.jpeg)
+ 
+

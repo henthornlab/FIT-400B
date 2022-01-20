@@ -1,32 +1,18 @@
-## Welcome to GitHub Pages
+![RHIT Logo](https://raw.githubusercontent.com/henthornlab/ProcessAnalytics/master/RHITlogo.png)
 
-You can use the [editor on GitHub](https://github.com/henthornlab/FIT-400B/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## FIT-400B 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a Coriolis flow meter. It can directly measure the mass flow rate, density, and temperature in the Area 400: Instrumentation and Control unit.
 
-### Markdown
+|Manufacturer|Model| Key Process Variables Measured| Range  of process variables | Error |
+|-|-|-|-|-|
+|Endress+Hauser|Promass F-500|Mass flow|0 - 105 [$lb/min$]| 0.05% o.r. |
+|Endress+Hauser|Promass F-500|Density|0 - 312 [$lb/ft^3$]| ±0.0005 [$g/cm^3$]| 
+|Endress+Hauser|Promass F-500|Temperature|-50 - 150 [°C] | ±0.25 °C ± 0.0025 · T °C|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+___
+This instrument was installed by Liam Libbey, Isaiah Lilje, Eddie Barry, Alex Kyser, and Shane Myszka under the supervisor of Dr. Henthorn on December 16, 2021.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 

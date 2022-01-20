@@ -3,6 +3,7 @@
 ## FIT-400B 
 
 This is a Coriolis flow meter. It can directly measure the mass flow rate, density, and temperature in the Area 400: Instrumentation and Control unit.
+
 Manufacturer: Endress+Hauser
 
 Model: Promass F 500

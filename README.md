@@ -7,8 +7,8 @@ This is a Coriolis flow meter. It can directly measure the mass flow rate, densi
 
 
 |-|-|-|
-|Manufacturer|Endress+Hauser|||
-|Model|Promass F 500||| 
+|Manufacturer|Endress+Hauser|-|
+|Model|Promass F 500|-| 
 |Mass flow|0 - 105 [$lb/min$]| 0.05% o.r. |
 |Density|0 - 312 [$lb/ft^3$]| ±0.0005 [$g/cm^3$]| 
 |Temperature|-50 - 150 [°C] | ±0.25 °C ± 0.0025 · T °C|
